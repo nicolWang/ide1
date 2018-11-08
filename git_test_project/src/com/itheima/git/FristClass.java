@@ -16,6 +16,7 @@ public class FristClass {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+        System.out.println(1+1);
     }
 }
 
